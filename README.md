@@ -12,5 +12,9 @@
 1. 参考
 https://blog.csdn.net/qq_18303993/article/details/114481841
 进行扫码登陆
-2. 参考https://zhuanlan.zhihu.com/p/64690193进行词云生成
-3. 参考https://github.com/goto456/stopwords中文常用停用词表
+2. 参考
+https://zhuanlan.zhihu.com/p/64690193
+进行词云生成
+3. 参考
+https://github.com/goto456/stopwords
+中文常用停用词表
