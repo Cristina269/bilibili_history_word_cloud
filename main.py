@@ -2,7 +2,7 @@ import api
 
 user = api.bilibili()
 
-# 只测试第一页
+# 获取历史
 history_list = user.get_history_others()
 
 # 合并histort_list
